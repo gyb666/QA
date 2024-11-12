@@ -15,7 +15,7 @@
 
 - name: Jenkins
   descr: "工作提效工具"
-  Jenkins链接: http://172.16.70.29:8080/view/%E5%B7%A5%E5%85%B7/
+  demo: http://172.16.70.29:8080/view/%E5%B7%A5%E5%85%B7/
   tags:
     - tag: paas
     - tag: 弱网
@@ -24,7 +24,7 @@
 
 - name: 云测平台
   descr: "在线自动化测试的私有云真机平台"
-  云真机链接: http://172.16.100.251:3000/
+  demo: http://172.16.100.251:3000/
   tags:
     - tag: 云真机
     - tag: 自动化
